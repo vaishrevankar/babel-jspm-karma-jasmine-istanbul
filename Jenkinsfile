@@ -22,7 +22,7 @@ pipeline {
         
         stage('Code Coverage'){
             steps {
-            sh 'npm run test-with-coverage'
+            sh 'npm run cover'
             }
         }
         }
