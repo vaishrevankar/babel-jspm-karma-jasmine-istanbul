@@ -24,7 +24,7 @@
   "scripts": {
     "test": "karma start karma.conf.js",
     "postinstall": "jspm install",
-    "cover": "istanbul cover ./reports/coverage"
+    "cover": "istanbul cover ./reports/awesome-reports"
   },
   "author": "",
   "license": "MIT",
