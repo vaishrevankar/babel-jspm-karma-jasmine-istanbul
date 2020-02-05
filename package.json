@@ -24,7 +24,7 @@
   "scripts": {
     "test": "karma start karma.conf.js",
     "postinstall": "jspm install",
-    "cover": "istanbul cover ./coverage/headlesschrome"
+    "cover": "istanbul cover ./reports"
   },
   "author": "",
   "license": "MIT",
